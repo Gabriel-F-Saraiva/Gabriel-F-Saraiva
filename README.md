@@ -1,16 +1,21 @@
-### Hi there 👋
+# Gabriel Saraiva
 
-<!--
-**Gabriel-F-Saraiva/Gabriel-F-Saraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economista formado pela Universidade Estadual de Maringá (UEM) e cientista de dados com diploma de MBA em Data Science e Analytics na USP/Esalq, atualmente avançando meu conhecimento na interseção entre Economia e Ciência de Dados. Possuo uma paixão vibrante pela Ciência de Dados. 
 
-Here are some ideas to get you started:
+## Conecte-se comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/saraivagabriel/)
+
+## Habilidades
+
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
+
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-F-Saraiva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
