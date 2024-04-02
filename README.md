@@ -1,6 +1,6 @@
 # Gabriel Saraiva
 
-Economista formado pela Universidade Estadual de Maringá (UEM) e cientista de dados com diploma de MBA em Data Science e Analytics na USP/Esalq, atualmente avançando meu conhecimento na interseção entre Economia e Ciência de Dados. Possuo uma paixão vibrante pela Ciência de Dados. 
+Economista formado pela Universidade Estadual de Maringá (UEM) e cientista de dados com diploma de MBA em Data Science e Analytics na USP/Esalq. Possuo uma paixão vibrante pela Ciência de Dados. 
 
 ## Conecte-se comigo
 
