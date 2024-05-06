@@ -14,6 +14,8 @@ Economista formado pela Universidade Estadual de Maringá (UEM) e cientista de d
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-00000F.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 ## Github Stats
